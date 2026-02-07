@@ -1,0 +1,5 @@
+baseURL = 'scrap-trawler-review.github.io/'
+languageCode = 'en-us'
+title = 'SeanBandcamp'
+theme="Anake"
+
